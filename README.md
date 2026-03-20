@@ -18,6 +18,8 @@ Gestures:
 
 Play/Pause - Pinch two fingers
 
+Live Site: https://gesturegroove.vercel.app/
+
 Volume Up - Move Hand up
 
 Volume Down - Move Hand Down
